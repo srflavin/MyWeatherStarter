@@ -1,0 +1,34 @@
+html {
+  background-color: DodgerBlue;
+ 
+}
+div { 
+      margin: 6px 6px 6px 6px;
+      max-width: 700px;
+      padding: 4px;
+      padding-top: 4px;
+      border: 2px solid #defff0;
+      border-style: dashed;
+      border-width: 3px 5px 3px 5px;
+
+  }
+h3 {
+          margin-bottom: 6px;
+          display: inline-block;
+          font-style: normal;
+
+      }
+h1 {
+   margin: 5px;
+   padding: 15px;
+  
+}
+
+p {
+  margin: 15px;
+}
+
+link {
+  text-color: "#000000";
+
+}
