@@ -1,13 +1,20 @@
 html {
   background-color: DodgerBlue;
+<<<<<<< HEAD
  
+=======
+>>>>>>> c7f009f3b14f5d61affa7f67175aec6c7c412336
 }
 div { 
       margin: 6px 6px 6px 6px;
       max-width: 700px;
       padding: 4px;
       padding-top: 4px;
+<<<<<<< HEAD
       border: 2px solid #defff0;
+=======
+      border: 2px solid FloralWhite;
+>>>>>>> c7f009f3b14f5d61affa7f67175aec6c7c412336
       border-style: dashed;
       border-width: 3px 5px 3px 5px;
 
@@ -26,9 +33,12 @@ h1 {
 
 p {
   margin: 15px;
+<<<<<<< HEAD
 }
 
 link {
   text-color: "#000000";
 
+=======
+>>>>>>> c7f009f3b14f5d61affa7f67175aec6c7c412336
 }

@@ -13,14 +13,20 @@
   },
   "dependencies": {
     "gatsby": "^2.0.76",
+<<<<<<< HEAD
     "gatsby-plugin-manifest": "^2.1.1",
     "gatsby-plugin-offline": "^2.1.1",
     "gatsby-plugin-react-helmet": "^3.0.12",
+=======
+>>>>>>> c7f009f3b14f5d61affa7f67175aec6c7c412336
     "gatsby-source-darksky": "^1.2.0",
     "gatsby-source-openweathermap": "^1.0.4",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
+<<<<<<< HEAD
     "react-helmet": "^5.2.1",
+=======
+>>>>>>> c7f009f3b14f5d61affa7f67175aec6c7c412336
     "react-icons": "^3.7.0"
   },
   "repository": {

@@ -1,7 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: `Gatsby Starter Weather - DarkSky and OpenWeather`,
+<<<<<<< HEAD
     description: 'Gatsby Weather Starter',
+=======
+>>>>>>> c7f009f3b14f5d61affa7f67175aec6c7c412336
     pathPrefix: '/static-gatsby-weather',
   },
   plugins: [
@@ -14,7 +17,11 @@ module.exports = {
         type: 'weather'
       },
     },
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> c7f009f3b14f5d61affa7f67175aec6c7c412336
     {
       resolve: 'gatsby-source-darksky',
       options: {
@@ -23,6 +30,7 @@ module.exports = {
         longitude: '-87.74',
         exclude: ['minutely']
       },
+<<<<<<< HEAD
     },
     
     {
@@ -37,6 +45,9 @@ module.exports = {
   
     'gatsby-plugin-offline',
     `gatsby-plugin-react-helmet`,
+=======
+    } 
+>>>>>>> c7f009f3b14f5d61affa7f67175aec6c7c412336
     
   ]
 }
